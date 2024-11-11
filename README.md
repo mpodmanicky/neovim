@@ -7,6 +7,8 @@ wanted to use something lightweight and still colourful enough for my coding and
 I am reluctant and safe to say I have had enough of the vscode sheit. So I followed some examples and learned the essentials needed
 to create my own config for my own needs.
 
+![Neovim](/resources/neovim1.png)
+
 ### Computer Configuration
 Funny though, I am running Windows 10 on my gaming laptop. I used to dual boot or even only use Linux during the first year in University.
 After the first year, I bought 2015 macbook pro. Which was fine, coming from UNIX environment, although for work not powerful enough.
@@ -33,4 +35,5 @@ Best way to learn right.
 
 First I installed LazyVim plugin as my plugin manager. Simple, lightweight, easy to understand and I like the structure.
 
-
+`init.lua`
+![init.lua](/resources/neovim2.png)
